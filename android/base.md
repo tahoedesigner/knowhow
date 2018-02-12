@@ -47,3 +47,14 @@ https://developer.android.com/guide/topics/manifest/manifest-intro.html
 #### 样式与主题
 
 https://developer.android.com/guide/topics/ui/themes.html
+
+#### 系统简单数据保存
+
+https://developer.android.com/training/data-storage/shared-preferences.html
+
+#### Realm
+
+面向对象的数据库系统
+
+https://realm.io/cn/
+
