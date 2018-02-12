@@ -52,6 +52,10 @@ https://developer.android.com/guide/topics/ui/themes.html
 
 https://developer.android.com/training/data-storage/shared-preferences.html
 
+#### 提供资源
+
+https://developer.android.com/guide/topics/resources/providing-resources.html
+
 #### Realm
 
 面向对象的数据库系统
