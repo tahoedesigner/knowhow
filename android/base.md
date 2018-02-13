@@ -1,3 +1,7 @@
+## Android Studio
+
+https://developer.android.com/studio/index.html
+
 ## 安桌各版本使用率
 
 https://developer.android.com/about/dashboards/index.html
@@ -36,6 +40,21 @@ if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
 }
 ```
 
+#### 代码检测终端特性
+
+```java
+// 判断客户终端是否具有指南针功能
+PackageManager pm = getPackageManager();
+if (!pm.hasSystemFeature(PackageManager.FEATURE_SENSOR_COMPASS)) {
+    // This device does not have a compass, turn off the compass feature
+    disableCompassFeature();
+}
+```
+
+#### 重要的类
+
+* JobScheduler
+
 #### 支持库
 
 https://developer.android.com/topic/libraries/support-library/index.html
@@ -56,9 +75,29 @@ https://developer.android.com/training/data-storage/shared-preferences.html
 
 https://developer.android.com/guide/topics/resources/providing-resources.html
 
+#### 使用系统权限
+
+https://developer.android.com/training/permissions/index.html
+
 #### Realm
 
 面向对象的数据库系统
 
 https://realm.io/cn/
+
+#### Android Compatibility Program
+
+https://source.android.com/compatibility
+
+#### API Level
+
+https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels
+
+#### Java8特性
+
+https://developer.android.com/studio/write/java8-support.html
+
+#### Android NDK
+
+https://developer.android.com/ndk/index.html
 
