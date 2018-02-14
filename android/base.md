@@ -51,6 +51,10 @@ if (!pm.hasSystemFeature(PackageManager.FEATURE_SENSOR_COMPASS)) {
 }
 ```
 
+#### Intent的基本使用
+
+https://developer.android.com/guide/components/intents-common.html
+
 #### 重要的类
 
 * JobScheduler
