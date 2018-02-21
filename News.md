@@ -9,3 +9,7 @@ https://www.oschina.net/news/93312/the-research-about-programmer
 
 https://my.oschina.net/editorial-story/blog/1622282
 
+#### 拯救小容量，6 款开源图片无损优化工具推荐
+
+https://my.oschina.net/editorial-story/blog/1622349
+
