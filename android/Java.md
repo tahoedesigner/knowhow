@@ -7,3 +7,11 @@ https://blogs.oracle.com/java-platform-group/extension-of-oracle-java-se-8-publi
 
 http://www.oracle.com/technetwork/java/eol-135779.html
 
+## Maven
+
+https://maven.apache.org/guides/getting-started/index.html
+
+## SpringFramework
+
+https://spring.io/
+
