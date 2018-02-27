@@ -13,14 +13,6 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
 https://dev.classmethod.jp/series/node-modules/
 
-### Framework7 - Full Featured Mobile HTML Framework For Building iOS & Android Apps
-
-http://framework7.io/
-
-### Elemental UI - A UI Toolkit for React.js Websites and Apps
-
-http://elemental-ui.com/
-
 ### Promiseとasync/awaitでJavaScriptの非同期処理をシンプルに記述する
 
 https://sbfl.net/blog/2016/07/13/simplifying-async-code-with-promise-and-async-await/
@@ -29,16 +21,15 @@ https://sbfl.net/blog/2016/07/13/simplifying-async-code-with-promise-and-async-a
 
 https://github.com/mikeal/r2
 
-## 包学会之浅入浅出Vue.js
+### Sails.js
 
-### 开学篇
+https://sailsjs.com/
 
-https://cloud.tencent.com/developer/article/1020337
+### Mongoose ODM
 
-### 升学篇
+http://mongoosejs.com/
 
-https://cloud.tencent.com/developer/article/1020338
+### axios:Promise based HTTP client for the browser and node.js
 
-### 结业篇
+https://github.com/axios/axios
 
-https://cloud.tencent.com/developer/article/1020416
