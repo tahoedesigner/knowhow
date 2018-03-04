@@ -33,3 +33,10 @@ http://mongoosejs.com/
 
 https://github.com/axios/axios
 
+### cheerio
+
+https://github.com/cheeriojs/cheerio
+
+### Puppeteer
+
+https://github.com/GoogleChrome/puppeteer
