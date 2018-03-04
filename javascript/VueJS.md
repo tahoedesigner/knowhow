@@ -22,3 +22,10 @@ https://zh.nuxtjs.org
 ## Vuetify(Material Design 组件框架)
 
 https://vuetifyjs.com/zh-Hans/
+
+## vue cli
+
+https://github.com/vuejs/vue-cli/tree/master
+
+该库默认是dev-beta分支，请注意。
+
