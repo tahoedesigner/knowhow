@@ -1,6 +1,26 @@
 vue.js
 ======
 
+## vue cli
+
+https://github.com/vuejs/vue-cli/tree/master
+
+该库默认是dev-beta分支，请注意。
+
+https://qiita.com/567000/items/dde495d6a8ad1c25fa43
+
+## vue cli建立的webpack模板的使用方法
+
+http://vuejs-templates.github.io/webpack/
+
+## vue-loader
+
+https://vue-loader.vuejs.org/zh-cn/
+
+### Vue 组件细则
+
+https://github.com/vuejs/vue-loader/blob/master/docs/zh-cn/start/spec.md
+
 ## 包学会之浅入浅出Vue.js
 
 ### 开学篇
@@ -23,9 +43,15 @@ https://zh.nuxtjs.org
 
 https://vuetifyjs.com/zh-Hans/
 
-## vue cli
+## Muse UI
 
-https://github.com/vuejs/vue-cli/tree/master
+https://github.com/museui/muse-ui
 
-该库默认是dev-beta分支，请注意。
+## Element(基于 Vue 2.0 的桌面端组件库)
+
+http://element-cn.eleme.io/#/zh-CN
+
+### axios:Promise based HTTP client for the browser and node.js
+
+https://github.com/axios/axios
 
