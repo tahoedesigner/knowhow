@@ -35,10 +35,6 @@ https://docs.nestjs.cn/
 
 http://mongoosejs.com/
 
-### axios:Promise based HTTP client for the browser and node.js
-
-https://github.com/axios/axios
-
 ### cheerio
 
 https://github.com/cheeriojs/cheerio
@@ -61,6 +57,10 @@ https://github.com/request/request-promise
 
 https://github.com/request/request-promise-native
 
+### axios:Promise based HTTP client for the browser and node.js
+
+https://github.com/axios/axios
+
 ### Electron (Build cross platform desktop apps with JavaScript, HTML, and CSS.)
 
 https://electronjs.org/
@@ -68,3 +68,13 @@ https://electronjs.org/
 ### ECMAScript 6 (Overview of ECMAScript 6 features)
 
 https://github.com/lukehoban/es6features
+
+### api-npm(This module will do query NPM registry to fetch any NPM module details including statistics)
+
+https://github.com/anisoftcorporation/api-npm
+
+### http-proxy-middleware
+
+https://github.com/chimurai/http-proxy-middleware
+
+

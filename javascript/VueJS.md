@@ -1,6 +1,10 @@
 vue.js
 ======
 
+## awesome-vue(Vue各种库)
+
+https://github.com/vuejs/awesome-vue
+
 ## vue cli
 
 https://github.com/vuejs/vue-cli/tree/master
@@ -55,3 +59,6 @@ http://element-cn.eleme.io/#/zh-CN
 
 https://github.com/axios/axios
 
+### Bootstrap + Vue
+
+https://bootstrap-vue.js.org/
