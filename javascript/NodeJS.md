@@ -65,6 +65,10 @@ https://github.com/axios/axios
 
 https://electronjs.org/
 
+https://electron.org.cn
+
+https://simulatedgreg.gitbooks.io/electron-vue/content/cn/
+
 ### ECMAScript 6 (Overview of ECMAScript 6 features)
 
 https://github.com/lukehoban/es6features

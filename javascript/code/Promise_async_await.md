@@ -1,6 +1,8 @@
 Promise/async/await使用例
 =========================
 
+http://liubin.org/promises-book/
+
 ```js
 // 普通Promise使用
 const p = new Promise(function (resolve, reject) {
@@ -44,10 +46,19 @@ dbupAsync("2.sql1")
 
 // 代码更加简洁的async/await
 async function upAllDB() {
-    const result1 = await dbupAsync("3.sql1");
-    const result2 = await dbupAsync("3.sql2");
-    const result3 = await dbupAsync("3.sql3");
-    console.log(result1, result2, result3);
+    const result1 = await dbupAsync("3-1.sql1");
+    const result2 = await dbupAsync("3-2.sql2");
+    const result3 = await dbupAsync("3-3.sql3");
+    const result4 = await dbupAsync("3-4.sql4").catch(err => {
+        console.error(err);
+    });
+    const result5 = await dbupAsync("3-5.sql5").catch(err => {
+        console.error(err);
+    });
+    const result6 = await dbupAsync("3-6.sql6").catch(err => {
+        console.error(err);
+    });
+    console.log(result1, result2, result3, result4, result5, result6);
 }
 upAllDB();
 

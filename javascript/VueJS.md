@@ -62,3 +62,8 @@ https://github.com/axios/axios
 ### Bootstrap + Vue
 
 https://bootstrap-vue.js.org/
+
+### Electron + Vue
+
+https://simulatedgreg.gitbooks.io/electron-vue/content/cn/
+
