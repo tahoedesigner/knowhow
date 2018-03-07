@@ -8,7 +8,7 @@ npm install api-npm --save
 ```js
 const async = require('async');
 const napi = require('api-npm');
-var colors = require('colors');
+const colors = require('colors');
 
 var list = [{
         name: 'npm',
@@ -59,3 +59,4 @@ async.eachSeries(list, function (item, cb) {
     });
 }, function (err) {});
 ```
+

@@ -77,4 +77,23 @@ https://github.com/anisoftcorporation/api-npm
 
 https://github.com/chimurai/http-proxy-middleware
 
+### Lodash
+
+https://lodash.com/
+
+### Image Library
+
+#### imagemin
+
+https://github.com/imagemin/imagemin
+
+https://github.com/imagemin/imagemin-cli
+
+#### node-optimage
+
+https://github.com/yuanyan/node-optimage
+
+## sharp(High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.)
+
+https://github.com/lovell/sharp
 
