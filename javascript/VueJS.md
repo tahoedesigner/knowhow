@@ -47,6 +47,10 @@ https://zh.nuxtjs.org
 
 https://vuetifyjs.com/zh-Hans/
 
+## NativeScript
+
+https://nativescript-vue.org/
+
 ## Muse UI
 
 https://github.com/museui/muse-ui
