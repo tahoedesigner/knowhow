@@ -2,7 +2,9 @@ npmjs库更新检测
 ===============
 
 ```bash
-npm install api-npm --save --save-exact
+npm install --save --save-exact async
+npm install --save --save-exact api-npm
+npm install --save --save-exact colors
 ```
 
 ```js
