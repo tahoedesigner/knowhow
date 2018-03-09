@@ -2,7 +2,7 @@ npmjs库更新检测
 ===============
 
 ```bash
-npm install api-npm --save
+npm install api-npm --save --save-exact
 ```
 
 ```js
