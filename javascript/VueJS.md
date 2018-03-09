@@ -25,6 +25,10 @@ https://vue-loader.vuejs.org/zh-cn/
 
 https://github.com/vuejs/vue-loader/blob/master/docs/zh-cn/start/spec.md
 
+## 单文件组件SFC
+
+https://cn.vuejs.org/v2/guide/single-file-components.html
+
 ## 包学会之浅入浅出Vue.js
 
 ### 开学篇
