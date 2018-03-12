@@ -13,6 +13,8 @@ http://www.bootcss.com/
 
 http://framework7.io/
 
+http://framework7.io/vue/installation.html
+
 ## Elemental UI - A UI Toolkit for React.js Websites and Apps
 
 http://elemental-ui.com/
