@@ -18,7 +18,7 @@ import Player from '@/components/Player'
 
 Vue.use(Router)
 
-export default new Router({
+const router = new Router({
     routes: [{
             path: '*',
             component: NotFound
@@ -64,7 +64,10 @@ export default new Router({
             path: '/player/:id',
             name: 'Player',
             props: true,
-            component: Player
+            component: Player,
+            beforeEnter: (to, from, next) => {
+                next();
+            }
         }, {
             path: '/tools',
             name: 'Tools',
@@ -96,4 +99,16 @@ export default new Router({
             }
         }
     ]
-})
+});
+
+router.beforeEach((to, from, next) => {
+    //console.log('router.index.beforeEach', to, from);
+    next();
+    // next(false);
+});
+
+router.afterEach((to, from) => {
+    //console.log('router.index.afterEach', to, from);
+});
+
+export default router;
