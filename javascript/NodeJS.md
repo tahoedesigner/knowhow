@@ -15,6 +15,8 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
 https://github.com/lukehoban/es6features
 
+https://babeljs.io/learn-es2015/
+
 ## 模块介绍
 
 https://dev.classmethod.jp/series/node-modules/
