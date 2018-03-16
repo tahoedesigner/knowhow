@@ -83,6 +83,10 @@ https://www.iviewui.com/
 
 https://github.com/juliandavidmr/vue-frame
 
+## Vue-ECharts
+
+https://github.com/ecomfe/vue-echarts
+
 ## Games
 
 https://vuejsexamples.com/tag/games/
