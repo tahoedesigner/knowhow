@@ -17,6 +17,10 @@ https://github.com/lukehoban/es6features
 
 https://babeljs.io/learn-es2015/
 
+## babel-cli
+
+https://babeljs.io/docs/usage/cli/
+
 ## 模块介绍
 
 https://dev.classmethod.jp/series/node-modules/
