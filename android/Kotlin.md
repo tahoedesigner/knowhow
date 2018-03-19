@@ -5,6 +5,16 @@ Kotlin
 
 https://www.kotlincn.net
 
+## 语法文档
+
+https://www.kotlincn.net/docs/reference/
+
+http://kotlinlang.org/docs/reference/
+
+## Android Kotlin Guides
+
+https://android.github.io/kotlin-guides/index.html
+
 ## Calling Java code from Kotlin
 
 https://kotlinlang.org/docs/reference/java-interop.html
