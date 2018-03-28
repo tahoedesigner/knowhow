@@ -5,6 +5,10 @@ Android开发资源
 
 https://developer.android.com/develop/index.html
 
+## 官方博客
+
+https://android-developers.googleblog.com
+
 ## Android Studio
 
 https://developer.android.com/studio/index.html
@@ -27,10 +31,30 @@ https://developer.android.com/about/dashboards/index.html
 
 图片例子：
 
-* drawable-xhdpi: 2.0倍
-* drawable-hdpi: 1.5倍
-* drawable-mdpi: 1.0(标准图片大小)
-* drawable-ldpi: 0.75倍
+* drawable-xxxhdpi: 4.0倍
+* drawable-xxhdpi:  3.0倍
+* drawable-xhdpi:   2.0倍
+* drawable-hdpi:    1.5倍
+* drawable-mdpi:    1.0(标准图片大小,160dpi基准)
+* drawable-ldpi:    0.75倍
+* nodpi:  它可用于您不希望缩放以匹配设备密度的位图资源。
+* tvdpi:  密度介于 mdpi 和 hdpi 之间的屏幕；约为 213dpi。它并不是“主要”密度组， 主要用于电视，而大多数应用都不需要它。对于大多数应用而言，提供 mdpi 和 hdpi 资源便已足够，系统将根据需要对其进行缩放。
+* anydpi: 此限定符适合所有屏幕密度，其优先级高于其他限定符。 这对于矢量可绘制对象很有用。
+
+https://developer.android.com/guide/topics/resources/providing-resources.html#ResourceTypes
+
+### 支持多种屏幕
+
+https://developer.android.com/guide/practices/screens_support.html
+
+```java
+//取得密度
+private void getDensity() {
+    DisplayMetrics displayMetrics = getResources().getDisplayMetrics();
+    Log.d(TAG,"Density is "+displayMetrics.density+" densityDpi is "+displayMetrics.densityDpi+" height: "+displayMetrics.heightPixels+
+        " width: "+displayMetrics.widthPixels);
+}
+```
 
 ### 小技巧
 
@@ -89,6 +113,8 @@ https://developer.android.com/guide/topics/resources/providing-resources.html
 #### 使用系统权限
 
 https://developer.android.com/training/permissions/index.html
+
+https://developer.android.com/guide/topics/security/permissions.html
 
 #### Realm
 
