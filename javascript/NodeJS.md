@@ -25,6 +25,8 @@ https://babeljs.io/docs/usage/cli/
 
 https://dev.classmethod.jp/series/node-modules/
 
+https://github.com/parro-it/awesome-micro-npm-packages
+
 ### Promiseとasync/awaitでJavaScriptの非同期処理をシンプルに記述する
 
 https://sbfl.net/blog/2016/07/13/simplifying-async-code-with-promise-and-async-await/
