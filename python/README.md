@@ -21,3 +21,6 @@ https://pypa.io/
 
 https://www.zhihu.com/question/20702054
 
+### python全栈开发（入门到放弃）
+
+https://www.bilibili.com/video/av13690129
