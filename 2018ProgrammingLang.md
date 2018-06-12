@@ -1,6 +1,12 @@
 2018年开发语言Top5
 ==================
 
+## 排名
+
+https://www.tiobe.com/tiobe-index/
+
+https://pypl.github.io/IDE.html
+
 ## 我的推荐
 
 + Python3
