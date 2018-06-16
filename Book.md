@@ -1,6 +1,10 @@
 各种学习资料
 ============
 
+## 极客学院Wiki
+
+http://wiki.jikexueyuan.com/list/javascript/
+
 ## 青空文庫
 
 http://www.aozora.gr.jp/
