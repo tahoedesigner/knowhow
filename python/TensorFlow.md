@@ -13,3 +13,6 @@ https://github.com/tensorlayer/tensorlayer
 
 http://tflearn.org/
 
+## Keras中文
+
+http://keras-cn.readthedocs.io/en/latest/
