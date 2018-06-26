@@ -25,3 +25,6 @@ https://github.com/chenyuntc/pytorch-book
 
 https://github.com/yunjey/pytorch-tutorial
 
+## matplotlib
+
+https://www.youtube.com/playlist?list=PLNmACol6lYY5aGQtxghQTq0bHXYoIMORy
