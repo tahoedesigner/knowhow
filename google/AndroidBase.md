@@ -15,6 +15,10 @@ https://android-developers.googleblog.com
 
 https://developer.android.com/studio/index.html
 
+## Android Architecture Blueprints
+
+https://github.com/googlesamples/android-architecture
+
 ## 安桌各版本使用率
 
 https://developer.android.com/about/dashboards/index.html

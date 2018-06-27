@@ -1,6 +1,10 @@
 IT新闻
 ========
 
+## stackshare
+
+https://stackshare.io/
+
 ## CodeZine
 
 https://codezine.jp
