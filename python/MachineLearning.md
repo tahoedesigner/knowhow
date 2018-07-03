@@ -25,6 +25,10 @@ https://github.com/chenyuntc/pytorch-book
 
 https://github.com/yunjey/pytorch-tutorial
 
+## numpy
+
+https://www.jianshu.com/p/83c8ef18a1e8
+
 ## matplotlib
 
 https://matplotlib.org/
